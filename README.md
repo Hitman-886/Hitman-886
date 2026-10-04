@@ -25,3 +25,6 @@
 
 * **GitHub:** [@Hitman-886](https://github.com/Hitman-886)
 * **Status:** Looking for internship opportunities in Embedded Systems / Firmware Engineering.
+* <div align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=hitman-886&theme=minimal&style=erased&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233777089%3Fu%3D024fe5395d16b2ffc576c2334f715489e12b0be9%26v%3D4&v=showcase-heatmap-3" width="100%" alt="Hitman-886 Contribution Heatmap" style="filter: brightness(1.4) contrast(1.1) hue-rotate(-20deg);" />
+</div>
